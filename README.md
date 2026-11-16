@@ -3,8 +3,8 @@
 ## Files
 - `index.html` — website structure and content
 - `style.css` — responsive styling, layout, typography and hover effects
-- `assets/piyush.jpeg` — profile photograph
-- `assets/rishtara-logo.jpg` — Rishtara Globals logo
+- `piyush.jpeg` — profile photograph
+- `rishtara-logo.jpg` — Rishtara Globals logo
 
 ## Preview locally
 Open `index.html` in a browser.
